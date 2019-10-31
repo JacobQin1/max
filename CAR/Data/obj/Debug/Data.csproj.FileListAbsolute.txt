@@ -1,0 +1,16 @@
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\Data.dll.config
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\Data.dll
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\Data.pdb
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\EntityFramework.dll
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\Model.dll
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\Model.pdb
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\Model.dll.config
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\EntityFramework.xml
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\obj\Debug\Data.csproj.CopyComplete
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\obj\Debug\Data.dll
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\obj\Debug\Data.pdb
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\obj\Debug\Data.Migrations.build.resources
+E:\New folder\antra\C# code\C# code\New folder\CAR\Data\obj\Debug\Data.csproj.GenerateResource.cache
